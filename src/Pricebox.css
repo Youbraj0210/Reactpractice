@@ -1,0 +1,12 @@
+.Pricebox{
+    background-color: gold;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:0 0 20px 20px ;
+}
+
+.Pricebox s{
+    margin-right: 5px;
+}

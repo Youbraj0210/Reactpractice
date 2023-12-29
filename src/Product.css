@@ -1,0 +1,10 @@
+.Product{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 250px;
+    margin-right: 1rem;
+    border-radius: 20px;
+    border: 2px solid gold;
+}
